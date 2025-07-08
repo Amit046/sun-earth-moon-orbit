@@ -19,7 +19,6 @@ This is a simple 2D animation that visually represents the orbital motion of the
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📁 Folder Structure
 
